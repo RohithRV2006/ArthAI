@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "786786684269",
+    "project_id": "arth-c7172",
+    "storage_bucket": "arth-c7172.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786786684269:android:0ad61b787f51d6575ede64",
+        "android_client_info": {
+          "package_name": "com.example.arth.arth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786786684269-bov7orflla80uievt15uc8r39r354g0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arth.arth",
+            "certificate_hash": "b0c07bbad102b1a871d484e5e26dd2960a2ef1f9"
+          }
+        },
+        {
+          "client_id": "786786684269-35jd0q1s123gimm1tvu3e249pu6vjvlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhmX4jQb7bPXmWbobHOzhE-y2To7RZdW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786786684269-35jd0q1s123gimm1tvu3e249pu6vjvlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

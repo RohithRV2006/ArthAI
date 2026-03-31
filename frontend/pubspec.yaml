@@ -1,0 +1,41 @@
+name: arth
+description: Arth - Personal Finance Assistant
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.6.0
+  provider: ^6.1.1
+  speech_to_text: ^7.3.0
+  flutter_tts: ^3.8.5
+  shared_preferences: ^2.3.0
+  cupertino_icons: ^1.0.6
+  firebase_core: ^3.3.0
+  firebase_auth: ^5.1.3
+  google_sign_in: ^6.2.1
+  cloud_firestore: ^5.2.1
+  uuid: ^4.0.0
+  geolocator: ^11.0.0
+  geocoding: ^3.0.0
+  google_maps_flutter: ^2.6.0
+  flutter_launcher_icons: ^0.13.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/app_icon.png"
+  min_sdk_android: 21 # Required for Android
