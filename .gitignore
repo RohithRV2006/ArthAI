@@ -1,0 +1,58 @@
+# ENV FILES (IMPORTANT)
+.env
+
+# PYTHON (BACKEND)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# FLUTTER / DART (FRONTEND)
+
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+
+# Build outputs
+build/
+coverage/
+
+# Flutter specific
+**/ios/Flutter/.last_build_id
+
+# IDE / EDITOR FILES
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# LOGS & TEMP FILES
+
+*.log
+*.swp
+*.tmp
+*.temp
+
+# OS FILES
+.DS_Store
+Thumbs.db
+
+# ANDROID BUILD FILES
+android/app/debug
+android/app/profile
+android/app/release
+
+# TEST / COVERAGE
+coverage/
+
+
+# OPTIONAL (if needed later)
+# node_modules/
+# dist/
